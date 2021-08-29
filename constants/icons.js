@@ -11,6 +11,11 @@ export const sushi = require('../assets/icons/sushi.png');
 export const drink = require('../assets/icons/drink.png');
 export const rice_bowl = require('../assets/icons/rice.png');
 export const star = require('../assets/icons/star.png');
+export const back = require('../assets/icons/back.png');
+export const list = require('../assets/icons/list.png');
+export const fire = require('../assets/icons/fire.png');
+export const pin = require('../assets/icons/pin.png');
+export const master_card = require('../assets/icons/credit-card.png');
 
 export default {
   cutlery,
@@ -26,4 +31,9 @@ export default {
   drink,
   rice_bowl,
   star,
+  back,
+  list,
+  fire,
+  pin,
+  master_card,
 };
